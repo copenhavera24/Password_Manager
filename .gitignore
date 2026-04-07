@@ -1,0 +1,6 @@
+.env
+passwords.json
+salt.bin
+key.bin
+venv/*
+.venv/*
